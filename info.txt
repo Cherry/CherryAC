@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"		"CherryAC"
+	"version"	"1"
+	"up_date"	"2011"
+	"author_name"	"Cherry"
+	"author_email"	"jamesross134+gmod@gmail.com"
+	"author_url"  	"http://sammyservers.com"
+	"info"		"Anti Cheat"
+}
