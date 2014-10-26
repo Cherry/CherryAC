@@ -95,12 +95,6 @@ hook.Add("InitPostEntity", "ACMYSQLCONNECT", function()
 	ADB.ConnectToMySQL(DATABASE_HOST, DATABASE_USERNAME, DATABASE_PASSWORD, DATABASE_NAME, DATABASE_PORT) 
 end)
 
-/*local Host = "localhost"
-local User = "detections"
-local Pass = "222CY9bFVtFM6KKV"
-local DB = "garrysmod"
-local Port = 3306*/
-
 -- Random string generation
 local function StringRandom(int)
 	math.randomseed(os.time())
